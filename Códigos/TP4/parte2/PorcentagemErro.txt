@@ -1,0 +1,17 @@
+Reforma da Previdência definidos pelo especialista humano
+
+Positivo 740
+Neutro 780
+Negativo 712
+
+
+Tweets Traduzidos e Rotulados
+
+Positivo 60
+Neutro 1000
+Negativo 21
+
+Porcentagem de Erro
+Positivo 91%
+Neutro 28%
+Negativo 97%
